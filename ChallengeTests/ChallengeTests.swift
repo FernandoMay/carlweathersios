@@ -2,7 +2,7 @@
 //  ChallengeTests.swift
 //  ChallengeTests
 //
-//  Created by Luis Dominguez on 09/10/24.
+//  Created by Fernando May on 09/10/24.
 //
 
 import XCTest
